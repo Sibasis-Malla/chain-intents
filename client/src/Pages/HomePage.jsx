@@ -5,7 +5,7 @@ function HomePage() {
     <>
       <Navbar />
       {/* Hero Section */}
-      <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, consequuntur animi rerum ab necessitatibus assumenda vero dolore, libero accusamus vitae dolor architecto quam corporis voluptatem veritatis beatae modi exercitationem totam?</div>
+     <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae dolorem optio, iure necessitatibus modi, explicabo nobis ullam similique a ut ea fuga numquam asperiores! Quo iste dolor voluptate neque aliquid.</div>
     </>
   );
 }
